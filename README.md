@@ -24,8 +24,8 @@ yes | pkg install libjansson wget nano -y
 mkdir ccminer && cd ccminer
 wget https://raw.githubusercontent.com/cryptosae/verus/generic/ccminer
 wget https://raw.githubusercontent.com/cryptosae/verus/generic/config.json
-wget https://raw.githubusercontent.com/cryptosae/verus/generic/run.sh
-chmod +x ccminer run.sh
+wget https://raw.githubusercontent.com/cryptosae/verus/generic/start.sh
+chmod +x ccminer start.sh
 ```
 # Usage:
 
@@ -38,7 +38,7 @@ nano config.json
 ```
 2. Start ccminer with:
 ```
-~/ccminer/.sh
+~/ccminer/start.sh
 ```
 3. Close ccminer with:
 ```
