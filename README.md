@@ -53,10 +53,14 @@ CTRL + c
 - Use a pool with low latency to your location/internet.
 - Give the miner/stratum time to stabilize hashrate(~30m-1h).
 
-# T0 make auto mining when hp on:
+# T0 make auto mining when OPEN teRmuX:
+```
 - cd && cd && cd && nano ../usr/etc/bash.bashrc
+```
 
 Copykan ini kebaris paling bawah,lalu ctrl X, simpan pilih Y enter
-cd ccminer/&&./start.sh
+```
+- cd ccminer/&&./start.sh
+```
 
-add autostart manager apk
+add autostart manager apk TO MAKe AUto OPEN TErMuX WHEn PhOnE On
