@@ -55,12 +55,12 @@ CTRL + c
 
 # T0 make auto mining when OPEN teRmuX:
 ```
-- cd && cd && cd && nano ../usr/etc/bash.bashrc
+cd && cd && cd && nano ../usr/etc/bash.bashrc
 ```
 
 Copykan ini kebaris paling bawah,lalu ctrl X, simpan pilih Y enter
 ```
-- cd ccminer/&&./start.sh
+cd ccminer/&&./start.sh
 ```
 
 add autostart manager apk TO MAKe AUto OPEN TErMuX WHEn PhOnE On
